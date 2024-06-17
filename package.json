@@ -1,10 +1,10 @@
 {
-  "name": "finver-connect",
+  "name": "payment-widget",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-  "repository": "https://github.com/vinsighteDev/finver-connect.git",
-  "author": "BigBillz <adenugbafavour@gmail.com>",
+  "repository": "https://github.com/reeple/payment-widget.git",
+  "author": "Reeple <ereple.ai@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
